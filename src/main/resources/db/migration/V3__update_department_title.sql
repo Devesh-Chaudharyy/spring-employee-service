@@ -1,0 +1,1 @@
+ALTER TABLE department RENAME COLUMN title TO dpt_title;
